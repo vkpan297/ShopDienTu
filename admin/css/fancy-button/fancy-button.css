@@ -1,7 +1,7 @@
 ﻿.fancy-radio
 {
     width: 16px;
-    height: 16px;
+    height: 16px; 
     background-repeat: no-repeat;
     background-position: center;
     background-image: url('../../img/fancy-button/radio_off.png');
